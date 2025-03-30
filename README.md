@@ -83,7 +83,7 @@ This project focuses on the classification of space objects and the detection of
 - **Enhanced Preprocessing:** Developing advanced feature extraction and filtering techniques for improved classification accuracy.
 - **Real-World Deployment:** Optimizing the model for real-time satellite data analysis and space debris monitoring.
 - **Cross-Domain Validation:** Extending the study to analyze space objects using both optical and multi-spectral imaging techniques.
-- **Integration with NASA/JPL Databases:** Exploring collaborations for leveraging high-resolution space object datasets.
+- **Integration with NASA Databases:** Exploring collaborations for leveraging high-resolution space object datasets.
 
 ## Contributors
 - **Shakthi**
