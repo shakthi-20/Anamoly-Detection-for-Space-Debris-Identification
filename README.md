@@ -29,7 +29,7 @@ This project focuses on the classification of space objects and the detection of
 ### 3. Testing and Evaluation
 - `testingcode.py` was used to validate the trained model using the Kaggle dataset.
 - Additional testing was conducted using **infrared images** obtained from satellite archives.
-  - Images were sourced from publicly available **James Webb Space Telescope (JWST) archives** in ** FITS format**.
+  - Images were sourced from publicly available **James Webb Space Telescope (JWST) archives** in **FITS format**.
   - **FITS Liberator** was used to process these images, applying **Asinh scaling** to enhance visualization.
   - The processed images were converted to **TIFF format**.
   - The **`rgb.py` script** converted the TIFF files into RGB images for further analysis.
