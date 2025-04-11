@@ -1,4 +1,4 @@
-# Anamoly-Detection-for-Space-Debris-Identification
+# Anomaly-Detection-for-Space-Debris-Identification
 
 This project focuses on the classification of space objects and the detection of space debris using deep learning methodologies. Our approach leverages autoencoders and other machine learning techniques to analyze and categorize space objects based on satellite imagery, incorporating both optical and infrared datasets.
 
